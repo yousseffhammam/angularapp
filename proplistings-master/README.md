@@ -1,6 +1,4 @@
-# Proplistings
-
-Angular 2 Firebase application for listing properties. Part of the Traversy Media YouTube series 
+Angular Firebase application for listing.
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
